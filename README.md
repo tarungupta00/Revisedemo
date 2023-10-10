@@ -1,4 +1,4 @@
 # Revisedemo
-This is a Revision repo after college.
+This is the Revision repo after college.
 <br>
 Author - Tarun(Learning)
